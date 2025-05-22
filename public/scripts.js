@@ -1,4 +1,3 @@
-import { SpeedInsights } from "@vercel/speed-insights/next";
 // document.getElementById("p1").innerText = "New display string"; // To change the display string
 
 // const theiranswer = document.getElementById("answer");
